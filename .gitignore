@@ -1,0 +1,10 @@
+__history/
+*.exe
+*.~df
+*.~dp
+*.~pa
+*.dcu
+*.res
+*.zip
+*.dof
+*.ico
